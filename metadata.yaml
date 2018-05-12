@@ -1,0 +1,28 @@
+_repo: Verloving-en-Huwelijk-in-vroeger-dagen_35881
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35881-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Knappert, Laurentius
+    birthdate: 1863
+    deathdate: 1943
+    gutenberg_agent_id: '37955'
+    url: http://www.gutenberg.org/2009/agents/37955
+    wikipedia: http://fy.wikipedia.org/wiki/Laurentius_Knappert
+description: ''
+gutenberg_issued: '2011-04-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35881'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GT'
+- !lcsh 'Marriage customs and rites -- Netherlands'
+- !lcsh 'Courtship -- Netherlands'
+title: Verloving en Huwelijk in vroeger dagen
+url: http://www.gutenberg.org/ebooks/35881
